@@ -6,10 +6,11 @@
 
 ### Other Accounts 📫
 
-You can find and get touch with me on these accounts! 
-| [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" alt="twitter logo" width="34">](https://www.instagram.com/__v____k__) 
-| [<img src="https://raw.githubusercontent.com/Vivek-Kumar-17/Vivek-Kumar-17/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/__V____K__) 
-| [<img src="https://raw.githubusercontent.com/Vivek-Kumar-17/Vivek-Kumar-17/master/img/linkedin.png" alt="linkedin logo" width="34">](https://twitter.com/__V____K__) 
+You can find and get touch with me on these accounts!
+<br>
+| [<img src="https://www.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Instagram-Outline-128.png" alt="twitter logo" width="34">](https://www.instagram.com/__v____k__) 
+| [<img src="https://www.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-128.png" alt="twitter logo" width="34">](https://twitter.com/__V____K__) 
+| [<img src="https://www.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-128.png" alt="linkedin logo" width="34">](https://twitter.com/__V____K__) 
 |---|---|---|---|---|---|---|---|
 
 ---
