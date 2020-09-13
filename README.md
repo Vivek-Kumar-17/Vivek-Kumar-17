@@ -8,10 +8,9 @@
 
 You can find and get touch with me on these accounts!
 <br>
-| [<img src="https://www.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Instagram-Outline-128.png" alt="twitter logo" width="34">](https://www.instagram.com/__v____k__) 
-| [<img src="https://www.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-128.png" alt="twitter logo" width="34">](https://twitter.com/__V____K__) 
-| [<img src="https://www.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-128.png" alt="linkedin logo" width="34">](https://twitter.com/__V____K__) 
-|---|---|---|---|---|---|---|---|
+[<img src="https://www.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Instagram-Outline-128.png" alt="twitter logo" width="34">](https://www.instagram.com/__v____k__) <br>
+[<img src="https://www.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-128.png" alt="twitter logo" width="34">](https://twitter.com/__V____K__) <br>
+[<img src="https://www.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-128.png" alt="linkedin logo" width="34">](https://twitter.com/__V____K__) <br>
 
 ---
 ⭐️ From [Vivek-Kumar-17](https://github.com/Vivek-Kumar-17)
