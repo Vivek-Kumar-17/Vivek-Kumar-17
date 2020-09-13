@@ -7,7 +7,7 @@
 ### Other Accounts 📫
 
 You can find and get touch with me on these accounts! 
-| [<img src="https://raw.githubusercontent.com/Vivek-Kumar-17/Vivek-Kumar-17/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/__v____k__) 
+| [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/__v____k__) 
 | [<img src="https://raw.githubusercontent.com/Vivek-Kumar-17/Vivek-Kumar-17/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/__V____K__) 
 | [<img src="https://raw.githubusercontent.com/Vivek-Kumar-17/Vivek-Kumar-17/master/img/linkedin.png" alt="linkedin logo" width="34">](https://twitter.com/__V____K__) 
 |---|---|---|---|---|---|---|---|
