@@ -6,11 +6,11 @@
 
 ### Other Accounts 📫
 
-You can find and get touch with me on these accounts!
-<br>
-[<img src="https://www.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-128.png" alt="twitter logo" width="34">](https://www.instagram.com/__v____k__) <br>
-[<img src="https://www.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-128.png" alt="twitter logo" width="34">](https://twitter.com/__V____K__) <br>
-[<img src="https://www.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-128.png" alt="linkedin logo" width="34">](https://twitter.com/__V____K__) <br>
+You can find and get in touch with me on these accounts!
+<br><br>
+[<img src="https://www.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-128.png" alt="twitter logo" width="34">](https://www.instagram.com/__v____k__) <br><br>
+[<img src="https://www.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-128.png" alt="twitter logo" width="34">](https://twitter.com/__V____K__) <br><br>
+[<img src="https://www.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-128.png" alt="linkedin logo" width="34">](https://twitter.com/__V____K__) <br><br>
 
 ---
 ⭐️ From [Vivek-Kumar-17](https://github.com/Vivek-Kumar-17)
